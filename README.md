@@ -29,7 +29,7 @@
 <!--END_SECTION:waka-->
 
 ### Spotify Playing 🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mrsoulhacker&count=1)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mrsoulhacker&count=3)
 
 
 
