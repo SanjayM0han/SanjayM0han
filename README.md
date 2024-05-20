@@ -29,7 +29,8 @@
 <!--END_SECTION:waka-->
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/mrsoulhacker)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mrsoulhacker&count=1)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
