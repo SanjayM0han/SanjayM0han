@@ -6,7 +6,7 @@
 </div>
 
 
-- 🔭 I’m currently working on [Ceph](https://docs.ceph.com/en/reef/)
+- 🔭 I’m currently working on [Scalable Storage Solutions](https://docs.ceph.com/en/reef/)
 
 - 🌱 I’m currently learning **Ceph**
 
