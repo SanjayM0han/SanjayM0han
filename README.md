@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sanjaymohan237@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1VL1Bm7gmPlaNLGNigJIlrZr65t-icvoi/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1j-NCAqi2sv48r_p3dmkcxLuVVf-arKeM/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
