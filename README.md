@@ -6,13 +6,13 @@
 </div>
 
 
-- 🔭 I’m currently working on [Scalable Storage Solutions](https://docs.ceph.com/en/reef/)
+- 🔭 I’m currently working on [Scalable Storage Solutions](https://docs.ceph.com/en/reef/) and [Hyperconverged Infrastructure Solutions](https://harvesterhci.io/)
 
-- 🌱 I’m currently learning **Ceph**
+- 🌱 I’m currently learning **Ceph and Harvester**
 
 - 📫 How to reach me **sanjaymohan237@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1j0GSMKabt05iX6J3kc-citToKAZ4aza4/view?usp=drivesdk)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1rFl85y2zE9cqg1aqt5YpaE88oNQyxRLv/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
