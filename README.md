@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sanjaymohan237@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1rFl85y2zE9cqg1aqt5YpaE88oNQyxRLv/view?usp=drivesdk)
+- 📄 Know about my experiences [My Resume](https://flowcv.com/resume/2agjief0itj4)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bFxETUsR) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sanjay.mohan.77736) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjay._mohan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-mohan-246b71235) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sanjaym0han) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24139496) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanjay_mohan_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaymohan237@gmail.com) 
