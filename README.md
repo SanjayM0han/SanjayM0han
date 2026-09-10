@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sanjay Mohan</h1>
-<h3 align="center">Software Defined Storage Engineer</h3>
+<h3 align="center">Systems Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaym0han&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaym0han" /> </p>
 <div align="center">
   <img height="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 
-- 🔭 I’m currently working on [Scalable Storage Solutions](https://docs.ceph.com/en/reef/) and [Hyperconverged Infrastructure Solutions](https://harvesterhci.io/)
+- 🔭 I’m currently working on [Scalable Storage Solutions](https://docs.ceph.com/en/reef/) and [Hyperconverged Infrastructure Solutions](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 
-- 🌱 I’m currently learning **Ceph and Harvester**
+- 🌱 I’m currently learning **Ceph and Openshift**
 
 - 📫 How to reach me **sanjaymohan237@gmail.com**
 
